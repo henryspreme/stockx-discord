@@ -1,5 +1,5 @@
 const discord = require("discord.js");
-const client = new discord.Client();
+const client = new discord.Client(NTg1MTIyNjkwMTY4MjU4NzAw.XPZ6GA.VFVNOKre68y_amCpw7qminx2eWE);
 const request = require("request").defaults({
     timeout: 15000
 });
